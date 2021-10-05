@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/dynamicwebpaige.png" />
+        <ignore path="src/main/res/drawable/dyutidave.jpg" />
+        <ignore path="src/main/res/drawable/jcinis.jpg" />
+        <ignore path="src/main/res/drawable/jeffrafter.png" />
+        <ignore path="src/main/res/drawable/jules2689.jpg" />
+        <ignore path="src/main/res/drawable/lindasuekocsis.jpg" />
+        <ignore path="src/main/res/drawable/mxschmitt.png" />
+        <ignore path="src/main/res/drawable/poteto.jpg" />
+        <ignore path="src/main/res/drawable/rsrahul1000.jpg" />
+        <ignore path="src/main/res/drawable/thebradbain.jpg" />
+    </issue>
+</lint>

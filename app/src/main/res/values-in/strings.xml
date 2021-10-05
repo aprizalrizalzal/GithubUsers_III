@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pengguna Github</string>
+
+    <string name="share">Bagikan</string>
+    <string name="name" tools:ignore="UnusedResources">Nama \n</string>
+    <string name="username">Nama pengguna \n</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="company">Perusahaan \n</string>
+    <string name="location">Lokasi \n</string>
+    <string name="repository">Repositori \n</string>
+    <string name="link">Tautan GitHub</string>
+    <string name="search">Telusuri</string>
+    <string name="avatar">Avatar</string>
+    <string name="favorite">Favorit</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="settings">Setelan</string>
+    <string name="favorite_clear">"  telah dihapus dari favorit"</string>
+    <string name="add_favorite">" telah ditambahkan ke favorit"</string>
+    <string name="open_link">Buka detail pengguna di browser</string>
+    <string name="alert_clear">Anda yakin ingin menghapus %s dari daftar favorit Anda?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus %s</string>
+    <string name="language">Ubah Pengaturan Bahasa</string>
+    <string name="appearance">Penampilan</string>
+</resources>
